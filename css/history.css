@@ -1,0 +1,24 @@
+body {
+    position: relative;
+    background-image: url('HTML/assets/1.jpg');
+}
+.article {
+    position: absolute;
+    width: 900px;
+    left: 500px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+a:link {
+    color: black;
+
+}
+a:hover {
+    color: darkgreen;
+}
+video {
+    width: 1000px;
+    position: relative;
+    right: 50px
+    /*padding: 20px 20px 20px 20px;*/
+}
